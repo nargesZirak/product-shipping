@@ -1,1 +1,1 @@
-# product-shipping
+# Distributed product-shipping application
